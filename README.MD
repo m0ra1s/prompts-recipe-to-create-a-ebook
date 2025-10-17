@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso <b>"Criando um Ebook com ChatGPT & MidJourney"</b> na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Canva](https://www.canva.com)
 
 ## 🧠 Prompts
 
@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título para um ebook com subtitulo com o tema Phyton. O tema do ebook é aprender python jogando um jogo no estilo stardew valley. O jogo é sobre uma metropole sustentável que o jogador aprende e constrói sua cidade através da programação. Crie um título curto e marcante, interessante que foge do usual. Sugira 10 títulos.                                                       |
+| conteúdo | Faça um texto para ebook, com foco em Python, listando os fundamentos da linguagem com exemplos em código: {REGRAS} - Explique sempre de uma maneira simplista para iniciantes - Deixe o texto enxuto - Sempre traga exemplos de código em contextos reais - Sempre deixe um título sugestivo por tópico - Crie uma gamificação como se o leitor fosse um jogador de um jogo no estilo Stardew Valley, só que com uma metrópole sustentável. |
 
 
-Midjourney：
+Gemini AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie um mundo no estilo Stardew Valley, só que com prédios, sendo uma metrópole com praia. Estilo de visão oblíqua, colorida e sustentável. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Gemini AI
 
 ## 📚 Materiais
 
@@ -62,9 +62,9 @@ Midjourney：
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas listadas para gerar o material base e utilizei a ferramenta [Canva](https://www.canva.com) para diagramação.
 
-## 👨‍💻 Expert
+## 👨‍💻 Estudante
 
 <p>
     <img 
@@ -73,15 +73,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspGeiza Morais<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/geizamorais/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -89,4 +86,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Geiza Morais](https://github.com/m0ra1s)
