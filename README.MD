@@ -12,8 +12,8 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
+    src="./assets/capa_codecity.png"
+    width="300"  
 />
 </p>
 
