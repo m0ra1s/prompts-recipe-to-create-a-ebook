@@ -72,8 +72,7 @@ Utilizei os prompts acima nas ferramentas listadas para gerar o material base e 
     <a href="https://github.com/felipeAguiarCode">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/geizamorais/">LinkedIn</a>
-&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
+</p>
 </p>
 <br/><br/>
 <p>
