@@ -48,6 +48,7 @@ Gemini AI：
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Crie um mundo no estilo Stardew Valley, só que com prédios, sendo uma metrópole com praia. Estilo de visão oblíqua, colorida e sustentável. |
+| título | Crie uma imagem no estilo do jogo stardew valley. Visão oblíqua, colorida, metrópole sustentável, com prédios. Crie uma imagem com mais zoom, onde é possível ver uma cafeteria de gatos e uma personagem negra no estilo stardew valley, usando fones de ouvido roxo e uma jaqueta jeans. Ela está sentada de frente a uma mesa redonda e há um notebook nessa mesa. Prompts negativos: Não adicione rio ou mar, barcos, céu, nuvens. |
 
 ## ✨ Features
 
@@ -66,12 +67,6 @@ Utilizei os prompts acima nas ferramentas listadas para gerar o material base e 
 ## 👨‍💻 Estudante
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
     <p>&nbsp&nbsp&nbspGeiza Morais<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/felipeAguiarCode">
